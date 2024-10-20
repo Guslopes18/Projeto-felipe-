@@ -1,0 +1,127 @@
+﻿id_cliente;id_veículo;desc_veículo;valor_compra;valor_venda;segmento;duração_contrato_semanas
+cliente_33;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;53620;engenharia;8
+cliente_59;veículo_8;GM-S10 CABINE SIMPLES;175555;123152;energia;29
+cliente_25;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;26254;outro;14
+cliente_39;veículo_7;HILUX CS DSL 4X4;262854;199660;agronegócio;16
+cliente_51;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;96047;mineração;29
+cliente_3;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;23340;engenharia;11
+cliente_26;veículo_6;TOYOTA-HILUX CS 4X4;172298;117451;engenharia;8
+cliente_15;veículo_4;FIAT - ARGO DRIVE 1.0;64061;43881;energia;36
+cliente_89;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;154677;agronegócio;14
+cliente_60;veículo_4;FIAT - ARGO DRIVE 1.0;64061;47405;outro;15
+cliente_7;veículo_8;GM-S10 CABINE SIMPLES;175555;124979;outro;9
+cliente_14;veículo_10;TOYOTA-HILUX CD 4X4 STANDART;162366;102770;energia;25
+cliente_45;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;146729;energia;25
+cliente_32;veículo_1;SAVEIRO CS RB MPI;82245;37074;mineração;25
+cliente_98;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;24552;energia;30
+cliente_79;veículo_10;TOYOTA-HILUX CD 4X4 STANDART;162366;120151;engenharia;14
+cliente_47;veículo_1;SAVEIRO CS RB MPI;82245;41969;mineração;21
+cliente_42;veículo_8;GM-S10 CABINE SIMPLES;175555;83753;mineração;29
+cliente_30;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;24305;agronegócio;16
+cliente_75;veículo_8;GM-S10 CABINE SIMPLES;175555;134740;outro;7
+cliente_57;veículo_8;GM-S10 CABINE SIMPLES;175555;131431;energia;22
+cliente_56;veículo_6;TOYOTA-HILUX CS 4X4;172298;80416;mineração;17
+cliente_62;veículo_4;FIAT - ARGO DRIVE 1.0;64061;46467;engenharia;6
+cliente_47;veículo_1;SAVEIRO CS RB MPI;82245;36689;mineração;19
+cliente_56;veículo_1;SAVEIRO CS RB MPI;82245;43942;mineração;36
+cliente_32;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;94361;mineração;32
+cliente_42;veículo_7;HILUX CS DSL 4X4;262854;123204;mineração;23
+cliente_23;veículo_1;SAVEIRO CS RB MPI;82245;44592;mineração;31
+cliente_9;veículo_10;TOYOTA-HILUX CD 4X4 STANDART;162366;72137;mineração;31
+cliente_28;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;61027;agronegócio;15
+cliente_36;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;49395;energia;35
+cliente_81;veículo_5;DUSTER OROCH EXPRESS 1.6 SCE;88606;61447;energia;13
+cliente_59;veículo_1;SAVEIRO CS RB MPI;82245;51763;energia;32
+cliente_49;veículo_8;GM-S10 CABINE SIMPLES;175555;120872;energia;34
+cliente_89;veículo_7;HILUX CS DSL 4X4;262854;201641;agronegócio;17
+cliente_26;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;136854;engenharia;9
+cliente_92;veículo_1;SAVEIRO CS RB MPI;82245;60363;agronegócio;16
+cliente_70;veículo_6;TOYOTA-HILUX CS 4X4;172298;127150;engenharia;12
+cliente_28;veículo_8;GM-S10 CABINE SIMPLES;175555;133701;agronegócio;17
+cliente_97;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;24053;engenharia;6
+cliente_27;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;59860;energia;33
+cliente_32;veículo_6;TOYOTA-HILUX CS 4X4;172298;90472;mineração;35
+cliente_35;veículo_8;GM-S10 CABINE SIMPLES;175555;88336;mineração;23
+cliente_12;veículo_10;TOYOTA-HILUX CD 4X4 STANDART;162366;103429;energia;13
+cliente_26;veículo_4;FIAT - ARGO DRIVE 1.0;64061;43887;engenharia;5
+cliente_95;veículo_5;DUSTER OROCH EXPRESS 1.6 SCE;88606;64900;agronegócio;21
+cliente_52;veículo_1;SAVEIRO CS RB MPI;82245;59903;engenharia;10
+cliente_59;veículo_8;GM-S10 CABINE SIMPLES;175555;117125;energia;32
+cliente_1;veículo_4;FIAT - ARGO DRIVE 1.0;64061;48435;agronegócio;15
+cliente_38;veículo_8;GM-S10 CABINE SIMPLES;175555;114607;energia;16
+cliente_17;veículo_6;TOYOTA-HILUX CS 4X4;172298;126451;outro;10
+cliente_79;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;55487;engenharia;11
+cliente_85;veículo_1;SAVEIRO CS RB MPI;82245;59422;energia;13
+cliente_48;veículo_6;TOYOTA-HILUX CS 4X4;172298;79733;mineração;32
+cliente_85;veículo_1;SAVEIRO CS RB MPI;82245;51657;energia;24
+cliente_17;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;60663;outro;17
+cliente_82;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;154569;outro;17
+cliente_58;veículo_8;GM-S10 CABINE SIMPLES;175555;129030;agronegócio;13
+cliente_76;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;36364;mineração;20
+cliente_65;veículo_6;TOYOTA-HILUX CS 4X4;172298;104977;energia;21
+cliente_79;veículo_5;DUSTER OROCH EXPRESS 1.6 SCE;88606;59043;engenharia;5
+cliente_61;veículo_5;DUSTER OROCH EXPRESS 1.6 SCE;88606;64109;agronegócio;24
+cliente_56;veículo_8;GM-S10 CABINE SIMPLES;175555;90436;mineração;24
+cliente_67;veículo_7;HILUX CS DSL 4X4;262854;176446;energia;21
+cliente_66;veículo_8;GM-S10 CABINE SIMPLES;175555;125422;energia;26
+cliente_59;veículo_4;FIAT - ARGO DRIVE 1.0;64061;41708;energia;28
+cliente_36;veículo_8;GM-S10 CABINE SIMPLES;175555;115887;energia;27
+cliente_42;veículo_7;HILUX CS DSL 4X4;262854;129523;mineração;27
+cliente_96;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;25296;agronegócio;20
+cliente_70;veículo_6;TOYOTA-HILUX CS 4X4;172298;113443;engenharia;5
+cliente_67;veículo_5;DUSTER OROCH EXPRESS 1.6 SCE;88606;54396;energia;18
+cliente_37;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;145158;agronegócio;14
+cliente_23;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;92453;mineração;26
+cliente_41;veículo_5;DUSTER OROCH EXPRESS 1.6 SCE;88606;62139;energia;17
+cliente_59;veículo_5;DUSTER OROCH EXPRESS 1.6 SCE;88606;54735;energia;21
+cliente_9;veículo_6;TOYOTA-HILUX CS 4X4;172298;78399;mineração;19
+cliente_52;veículo_7;HILUX CS DSL 4X4;262854;174837;engenharia;7
+cliente_62;veículo_4;FIAT - ARGO DRIVE 1.0;64061;42469;engenharia;14
+cliente_34;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;153877;agronegócio;12
+cliente_49;veículo_8;GM-S10 CABINE SIMPLES;175555;129863;energia;30
+cliente_30;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;24542;agronegócio;22
+cliente_94;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;57357;engenharia;15
+cliente_27;veículo_1;SAVEIRO CS RB MPI;82245;57424;energia;23
+cliente_92;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;27218;agronegócio;16
+cliente_29;veículo_1;SAVEIRO CS RB MPI;82245;44439;mineração;32
+cliente_97;veículo_8;GM-S10 CABINE SIMPLES;175555;123202;engenharia;6
+cliente_59;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;23849;energia;26
+cliente_88;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;24231;energia;19
+cliente_95;veículo_5;DUSTER OROCH EXPRESS 1.6 SCE;88606;63179;agronegócio;15
+cliente_96;veículo_1;SAVEIRO CS RB MPI;82245;62255;agronegócio;22
+cliente_96;veículo_4;FIAT - ARGO DRIVE 1.0;64061;47584;agronegócio;19
+cliente_49;veículo_8;GM-S10 CABINE SIMPLES;175555;125430;energia;19
+cliente_30;veículo_6;TOYOTA-HILUX CS 4X4;172298;128632;agronegócio;16
+cliente_37;veículo_7;HILUX CS DSL 4X4;262854;202917;agronegócio;20
+cliente_15;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;136230;energia;26
+cliente_97;veículo_7;HILUX CS DSL 4X4;262854;182554;engenharia;14
+cliente_84;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;62420;outro;8
+cliente_6;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;24727;energia;14
+cliente_97;veículo_1;SAVEIRO CS RB MPI;82245;53501;engenharia;14
+cliente_23;veículo_10;TOYOTA-HILUX CD 4X4 STANDART;162366;76815;mineração;30
+cliente_35;veículo_1;SAVEIRO CS RB MPI;82245;36965;mineração;23
+cliente_6;veículo_1;SAVEIRO CS RB MPI;82245;52725;energia;32
+cliente_60;veículo_1;SAVEIRO CS RB MPI;82245;63152;outro;24
+cliente_43;veículo_5;DUSTER OROCH EXPRESS 1.6 SCE;88606;41310;mineração;17
+cliente_83;veículo_10;TOYOTA-HILUX CD 4X4 STANDART;162366;127811;outro;6
+cliente_81;veículo_6;TOYOTA-HILUX CS 4X4;172298;107271;energia;16
+cliente_42;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;105210;mineração;15
+cliente_91;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;23696;engenharia;15
+cliente_36;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;55912;energia;30
+cliente_52;veículo_9;MITSUBISHI-L200 TRITON GL 2.4 D 4X4 MT CD;201850;137085;engenharia;10
+cliente_70;veículo_6;TOYOTA-HILUX CS 4X4;172298;126066;engenharia;15
+cliente_1;veículo_4;FIAT - ARGO DRIVE 1.0;64061;47600;agronegócio;19
+cliente_77;veículo_4;FIAT - ARGO DRIVE 1.0;64061;47441;energia;19
+cliente_75;veículo_4;FIAT - ARGO DRIVE 1.0;64061;44862;outro;9
+cliente_51;veículo_10;TOYOTA-HILUX CD 4X4 STANDART;162366;75913;mineração;17
+cliente_85;veículo_8;GM-S10 CABINE SIMPLES;175555;110444;energia;32
+cliente_22;veículo_10;TOYOTA-HILUX CD 4X4 STANDART;162366;106961;energia;18
+cliente_72;veículo_6;TOYOTA-HILUX CS 4X4;172298;86190;mineração;31
+cliente_32;veículo_5;DUSTER OROCH EXPRESS 1.6 SCE;88606;44998;mineração;24
+cliente_95;veículo_6;TOYOTA-HILUX CS 4X4;172298;131366;agronegócio;18
+cliente_58;veículo_7;HILUX CS DSL 4X4;262854;204404;agronegócio;20
+cliente_66;veículo_8;GM-S10 CABINE SIMPLES;175555;108515;energia;25
+cliente_19;veículo_3;FIAT-NOVA STRADA ENDURANCE CS 1.4;81702;57785;energia;28
+cliente_46;veículo_4;FIAT - ARGO DRIVE 1.0;64061;34548;mineração;19
+cliente_93;veículo_7;HILUX CS DSL 4X4;262854;191109;outro;15
+cliente_85;veículo_2;VW-GOL TREND 1.6 FLEX 4P;34083;21248;energia;26

@@ -1,5 +1,7 @@
 import pandas as pd 
-
-teste_csv = pd.read_csv('tabela_carro_atual.csv')
+import matplotlib.pyplot as plt
+import numpy as np
+teste_csv = pd.read_csv('teste_final.csv')
 teste_df = pd.DataFrame(teste_csv)
 print(teste_df)
+
